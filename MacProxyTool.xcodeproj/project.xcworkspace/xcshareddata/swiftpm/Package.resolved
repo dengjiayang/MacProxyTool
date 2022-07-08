@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "ShellOut",
+        "repositoryURL": "https://github.com/JohnSundell/ShellOut.git",
+        "state": {
+          "branch": "master",
+          "revision": "d3db50b62a86b18f88f5de38cae5f3d80617d555",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
